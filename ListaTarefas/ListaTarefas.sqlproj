@@ -58,4 +58,10 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Tarefa.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="ListaTarefas.refactorlog" />
+  </ItemGroup>
 </Project>
